@@ -24,4 +24,4 @@
   ansible.builtin.service:
     name: mongod
     state: restarted
-     
+    # the main.yaml file of the mongodb has been executed
